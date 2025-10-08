@@ -1,5 +1,5 @@
 import Contador from './componentes/calculadora'; 
-import Button from './componentes/boton';
+
 import './App.css';
 
 function App() {
@@ -7,7 +7,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Contador/>
-        
         
       </header>
     </div>

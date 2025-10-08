@@ -28,3 +28,9 @@ background: linear-gradient(to right, #4286f4, #373B44); /* W3C, IE 10+/ Edge, F
   border-radius: 10px;
   margin: 5px;
 }
+.botonesop
+{
+  margin: 5px;
+  border: 0px;
+  background-color: aqua;
+}
